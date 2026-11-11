@@ -21,11 +21,11 @@
 
 ## 👨‍💻 ABOUT ME
 
-Backend Software Engineer with professional experience at **SpiceJet**, specializing in Java and Spring Boot development.
+Backend Software Engineer with professional experience at **SpiceJet Ltd.**, specializing in Java and Spring Boot development.
 
 Experienced in building REST APIs, asynchronous processing pipelines, Kafka-based messaging systems, and database-driven applications.
 
-My work focuses on backend reliability, message delivery, fault tolerance, database performance, and cloud infrastructure. I enjoy solving production engineering challenges and building maintainable backend services.
+My work focuses on backend reliability, message delivery, fault tolerance, database performance, and AWS infrastructure. I enjoy solving production engineering challenges and building maintainable backend services.
 
 ---
 
@@ -36,18 +36,21 @@ My work focuses on backend reliability, message delivery, fault tolerance, datab
 *17 February 2025 – Present*
 
 ### Backend Development
+
 - Developing and maintaining backend services using Java and Spring Boot.
 - Working on email processing systems handling approximately **5 emails per second**.
 - Building REST APIs and integrating third-party email service providers.
 - Implementing asynchronous producer-consumer workflows.
 
 ### Apache Kafka & Event Processing
+
 - Working with Kafka producer-consumer architecture for asynchronous processing.
 - Implementing message publishing, consumption, acknowledgements, and retry mechanisms.
 - Monitoring consumer lag and identifying processing bottlenecks.
 - Working on high-volume Delivery Receipt (DLR) processing.
 
 ### Reliability & Fault Tolerance
+
 - Working on fallback and recovery mechanisms for Kafka and database outages.
 - Implementing alternative vendor submission workflows during infrastructure failures.
 - Working on idempotent processing and duplicate-message handling.
@@ -55,17 +58,27 @@ My work focuses on backend reliability, message delivery, fault tolerance, datab
 - Focusing on data consistency and reliable message recovery.
 
 ### Database Engineering
+
 - Working with MySQL and Amazon RDS.
 - Optimizing SQL queries and database access patterns.
 - Working with indexing and time-based table partitioning.
 - Monitoring database connections and resource utilization.
 
-### Cloud & Deployment
-- Working with AWS infrastructure and auto-scaling strategies.
-- Supporting zero-downtime deployment approaches for email services.
-- Using Docker for application containerization.
-- Managing CI/CD pipelines with GitLab.
-- Monitoring application health and infrastructure performance.
+### Cloud Infrastructure & AWS
+
+- Hands-on experience working with AWS EC2 instances and server infrastructure.
+- Working with Amazon S3 for object storage, file management, and storage optimization.
+- Experience with Amazon RDS for production database infrastructure.
+- Working with Elastic Load Balancing (ALB), EBS volumes, and AWS networking.
+- Monitoring server resources, application health, and infrastructure performance.
+- Working on AWS cost analysis and infrastructure cost optimization.
+- Experience with auto-scaling strategies and availability-focused deployments for email services.
+
+### DevOps & Tools
+
+- Familiar with Docker-based application containerization.
+- Basic hands-on experience with GitLab CI/CD pipelines.
+- Working with Git and Maven for source control and build management.
 
 ---
 
@@ -78,23 +91,25 @@ My work focuses on backend reliability, message delivery, fault tolerance, datab
 | Delivery Tracking | DLR ingestion and status management |
 | Reliability | Retry, fallback and recovery mechanisms |
 | Monitoring | Kafka consumer lag and application performance |
-| Deployment | Auto-scaling and availability-focused releases |
+| Deployment | Auto-scaling and availability-focused deployments |
 | Database | MySQL optimization and partitioning |
+| Cloud Infrastructure | EC2, S3, RDS, EBS and ALB |
 
 ---
 
 ## 🛠️ TECHNICAL SKILLS
 
-**Languages & Backend**
+### Programming & Backend
 
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square"/>
 </p>
 
-**Messaging & Architecture**
+### Messaging & Architecture
 
 <p>
 <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
@@ -102,15 +117,23 @@ My work focuses on backend reliability, message delivery, fault tolerance, datab
 <img src="https://img.shields.io/badge/Event--Driven_Architecture-6C3483?style=flat-square"/>
 </p>
 
-**Database & Cloud**
+### Database
 
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
 </p>
 
-**DevOps & Tools**
+### AWS & Cloud Infrastructure
+
+<p>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
+<img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Elastic_Load_Balancing-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+</p>
+
+### DevOps & Tools
 
 <p>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
